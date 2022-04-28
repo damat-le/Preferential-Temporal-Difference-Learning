@@ -1,6 +1,8 @@
 #!/bin/bash
 
 mkdir -p models_gridWorld
+mkdir -p results_gridWorld
+mkdir -p results_gridWorld2
 
 while IFS=, read size lr
 do 

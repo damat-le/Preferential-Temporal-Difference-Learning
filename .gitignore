@@ -125,3 +125,5 @@ Backprop/
 
 .gitignore*
 
+log/
+notes.md
