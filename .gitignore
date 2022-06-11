@@ -122,6 +122,7 @@ Backprop/
 *.ipynb
 *.pdf
 *.drawio
+*.tex
 
 .gitignore*
 

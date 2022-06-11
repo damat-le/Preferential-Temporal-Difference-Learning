@@ -1,6 +1,6 @@
-echo "--------------------\nsimulation start: $(date)\n--------------------\n\n"  
-echo "\n\n--------------------TASK1 - start: $(date)--------------------\n\n" 
+echo "--------------------simulation start: $(date)--------------------"  
+echo "--------------------TASK1 - start: $(date)--------------------" 
 ./run_task1.sh
-echo "\n\n--------------------TASK2 - start: $(date)--------------------\n\n" 
+echo "--------------------TASK2 - start: $(date)--------------------" 
 ./run_task2.sh
-echo "\n\n--------------------\nsimulation end: $(date)\n--------------------\n\n" 
+echo "--------------------simulation end: $(date)--------------------" 

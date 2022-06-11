@@ -1,3 +1,3 @@
-echo "--------------------\nsimulation start: $(date)\n--------------------\n\n"
+echo "--------------------simulation start: $(date)--------------------"
 ./run_tabular.sh
-echo "\n\n--------------------\nsimulation end: $(date)\n--------------------\n\n"
+echo "--------------------simulation end: $(date)--------------------"
